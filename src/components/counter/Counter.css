@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  margin: 100px auto;
+}
+
+input {
+  padding: 10px;
+  width: 300px;
+}
+
+p {
+  font-size: 2rem;
+  font-weight: 600;
+}
+button {
+  background: #004567;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  padding: 20px;
+  margin: 10px;
+  font-size: 1.2rem;
+  text-transform: capitalize;
+}
